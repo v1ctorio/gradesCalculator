@@ -1,2 +1,0 @@
-C:\dev\workspace\utl\cs_calc\bin\Debug\net6.0\win-x64\publish\cs_calc.pdb
-C:\dev\workspace\utl\cs_calc\bin\Debug\net6.0\win-x64\publish\cs_calc.exe
